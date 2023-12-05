@@ -4,4 +4,4 @@ User-agent: Yandex
 
 host: microsoft-word-ru.github.io
 
-Sitemap: https://winrarlab.github.io/sitemap.xml
+Sitemap: https://microsoft-word-ru.github.io/sitemap.xml
