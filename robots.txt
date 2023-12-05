@@ -1,0 +1,7 @@
+User-agent: *
+
+User-agent: Yandex
+
+host: microsoft-word-ru.github.io
+
+Sitemap: https://winrarlab.github.io/sitemap.xml
